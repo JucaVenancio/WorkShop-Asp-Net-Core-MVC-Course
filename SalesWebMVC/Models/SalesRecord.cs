@@ -1,4 +1,5 @@
 ﻿using System;
+using Remotion.Linq.Clauses;
 using SalesWebMVC.Models.Enums;
 
 namespace SalesWebMVC.Models
